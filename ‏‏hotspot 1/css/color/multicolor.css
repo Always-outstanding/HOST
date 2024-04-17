@@ -1,0 +1,29 @@
+@charset "utf-8";
+/*!
+Author: Mohamed Taha
+Facebook URL: https://www.facebook.com/mohamed.taha138
+Author URL: http://www.computerwgraphic.blogspot.com
+License: Free
+ */
+
+/* Sections About */
+.section#about, .section-about i.active {
+	/* background-color: #FC0; */
+	/* background: src="Images1/hero-bg.jpg" no-repeat ; */
+	background: url(../../images/5.jpg) no-repeat center;
+	background-size: cover;
+}
+
+/* Sections Services */
+.section#services, .section-services i.active {
+	background: #1570A6;
+	/* background: #1f4756; */
+
+}
+
+
+/* Sections Contact */
+.section#contact, .section-contact i.active {
+	/* background: #F33; */
+	background: #b48d69;
+}

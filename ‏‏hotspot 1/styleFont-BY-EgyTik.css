@@ -1,0 +1,60 @@
+/*--
+Author: Mohamed Taha
+Facebook URL: https://www.facebook.com/mohamed.taha138
+Author URL: http://www.computerwgraphic.blogspot.com
+License: Free
+--*/
+/* start editing Fonts from here design BY Mohamed Taha */
+
+body {
+background : F8F8F8#
+}
+
+
+@font-face {
+  font-family: 'JF-Flat-regular';
+  src: url('fonts/JF-Flat-regular.ttf');
+}
+
+h1 {
+color : rgb(43,00,AA);
+font-family : trebuchet;
+}
+
+p {
+font-family :JF-Flat-regular;
+}
+
+h1 {
+font-family :JF-Flat-regular;
+}
+
+input[type="text"] {
+font-family :JF-Flat-regular;
+}
+
+input[type="password"] {
+font-family :JF-Flat-regular;
+}
+
+input[type="submit"] {
+font-family :JF-Flat-regular;
+}
+
+.copy-right {
+font-family :JF-Flat-regular;
+}
+
+.copy-right p {
+font-family :JF-Flat-regular;
+}
+
+.copy-right p a {
+font-family :JF-Flat-regular;
+}
+
+.copy-right p a:hover {
+font-family :JF-Flat-regular;
+}
+
+/* End editing Fonts from here design BY Mohamed Taha */
